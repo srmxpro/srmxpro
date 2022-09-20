@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srmxpro
+- 👋 Hi, I’m Sahidur
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C
 - 💞️ I’m looking to collaborate with anyone who learn C
